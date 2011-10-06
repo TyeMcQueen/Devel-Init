@@ -1342,6 +1342,8 @@ http://www.perl.com/perl/misc/Artistic.html).
 
 Theo Chocolate Factory, Fremont, WA.US - http://www.theochocolate.com/
 
+git://github.com/TyeMcQueen/Devel-Init.git
+
 =cut
 
     Perl provides quite a few choices for when to do initialization.
