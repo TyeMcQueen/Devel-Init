@@ -6,7 +6,7 @@ use vars qw<
     %Attribs @Inits $StackTrace $DefaultInit
 >;
 BEGIN {
-    $VERSION= 0.001_001;
+    $VERSION= 0.001_002;
     $DefaultInit= 1;    # RunInits('default') at INIT-time?
 
     # Just in case somebody wants Exporter.pm-like information:
